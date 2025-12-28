@@ -11,5 +11,7 @@ This repository contains my python learning files, organized by topics.
 3. Pandas: Pandas exercises for data manipulation and analysis.
 <br>
 4. Matplotlib: Plotting and visualization examples using Matplotlib.
+<br>
+5. Seaborn: Data visualization using Seaborn, including plots, graphs, and styling examples.
 
 
