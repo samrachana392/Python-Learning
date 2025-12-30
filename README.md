@@ -20,4 +20,4 @@ This repository contains my python learning files, organized by topics.
 - **Numpy**: from freecodecamp Youtube Channel
 - **Pandas**: from codewithHarry Youtube Channel
 - **Matplotlib**: from freecodecamp Youtube Channel
-- **Seaborn**: from Intellipaat Youtuble Channel
+- **Seaborn**: from Intellipaat Youtube Channel
