@@ -15,3 +15,9 @@ This repository contains my python learning files, organized by topics.
 5. Seaborn: Data visualization using Seaborn, including plots, graphs, and styling examples.
 
 
+## My Learning Sources
+- **Python basics**: from ApnaCollege Youtube Channel
+- **Numpy**: from freecodecamp Youtube Channel
+- **Pandas**: from codewithHarry Youtube Channel
+- **Matplotlib**: from freecodecamp Youtube Channel
+- **Seaborn**: from Intellipaat Youtuble Channel
